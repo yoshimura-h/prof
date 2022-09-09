@@ -279,4 +279,4 @@ Learn or Die 死ぬ気で学べ
 木をかこう  
 ココロの盲点  
 エンジニアのためのマネジメントキャリアパス 
-![image](https://user-images.githubusercontent.com/112616335/189275713-7eaabfca-edd8-4823-937e-f843b69d24fc.png)
+
